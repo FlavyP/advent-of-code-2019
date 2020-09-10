@@ -1,15 +1,14 @@
-  !!TestDto
-  someString: "a deer, a female deer"
-  someNumber: 3.14159
-  oneList:
-    - "a1"
-    - "a2"
-  twoList:
-    - "d1"
-    - "d2"
-  thirdList:
-    - "c1"
-    - "c2"
-  forthList:
-    - "l1"
-    - "l2"
+someString: "a deer, a female deer"
+someNumber: 3.14159
+oneList:
+  - "a1"
+  - "a2"
+twoList:
+  - "d1"
+  - "d2"
+thirdList:
+  - "c1"
+  - "c2"
+forthList:
+  - "l1"
+  - "l2"
